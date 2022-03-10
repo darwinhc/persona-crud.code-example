@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/darwinhc/prueba-tecnica-enersinc.react.UI
+[submodule "backend"]
+	path = backend
+	url = https://github.com/darwinhc/prueba-tecnica-enersinc.django.backend-service
